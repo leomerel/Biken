@@ -1,6 +1,10 @@
-# Start-up of Biken
+# Biken
+
+Biken is an application that generates routes for cycling. These routes can be randomly generated (with a given distance) or can be simple routes from a place to another.
 
 Check the demo video on youtube : [Biken Demo](https://www.youtube.com/watch?v=G_dDSuDYuMY&ab_channel=L%C3%A9oM%C3%A9rel)
+
+![](images/example.png)
 
 ## Prerequisites to run the program on Qt:
 
