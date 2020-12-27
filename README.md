@@ -1,6 +1,6 @@
 # Start-up of Biken
 
-Check the demo video on youtube : [Biken Demo](https://www.youtube.com/watch?v=seBOBeAjZv8)
+Check the demo video on youtube : [Biken Demo](https://www.youtube.com/watch?v=G_dDSuDYuMY&ab_channel=L%C3%A9oM%C3%A9rel)
 
 ## Prerequisites to run the program on Qt:
 
